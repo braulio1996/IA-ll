@@ -108,6 +108,11 @@ Well ending, keras is a very powerful library that help us in many ways when cre
 
 • The amount of data must be significant, since RNA may not be as accurate with little data.
 
-
+### Results
+Artificial neural networks
+![RNA1](ARN1.png)
+![RNA2](ARN2.png)
+![RNA3](ARN3.png)
+![RNA3](ARN3.png)
 
 
