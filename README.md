@@ -9,13 +9,14 @@ Keras is a deep learning API written in Python, running on top of the machine le
 
 ## Objective
  
-​ Determine which are the best parameters in order to obtain the most suitable alternative for the neural network and activation function.
+ ■ Determine which are the best parameters in order to obtain the most suitable alternative for the neural 
+   network and activation function.
 
-​ Implement the resources learned in class to carry out the training of a neural network.
+ ■ Implement the resources learned in class to carry out the training of a neural network.
 
-​ Apply the use of Deep Learning tools for the development of the project
+ ■ Apply the use of Deep Learning tools for the development of the project
 
-​ Create files where the process results are generate
+ ■ Create files where the process results are generate
 
 ```KERAS
 We import the necessary libraries
