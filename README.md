@@ -7,7 +7,7 @@ Desarrollar una red neuronal que realice un proceso de clasificación de imágen
 Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result as fast as possible is key to doing good research.
 
 
-```Code
+```KERAS
 We import the necessary libraries
 
 # Libraries
@@ -50,12 +50,11 @@ train_X,test_X,train_Y,test_Y = train_test_split(x,y,test_size=0.2)
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [IA2 PROYECT](https://github.com/braulio1996/IA2WEB).
 
-### Jekyll Themes
+### video
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/braulio1996/IA2WEB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Tutorial](https://www.youtube.com/watch?v=f3S5oCCYto8)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Conclusion
+Well ending, keras is a very powerful library that help us in many ways when creating a neural network, provides us with several classes to create, but despite this is very important to make a cleanup of the data before performing the analysis, because there may be empty data, for example we should apply the average for the data or the kmeans algorithm.
