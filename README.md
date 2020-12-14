@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Inteligencia Artificial II
 
-You can use the [editor on GitHub](https://github.com/braulio1996/IA2WEB/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Enunciado:
+Desarrollar una red neuronal que realice un proceso de clasificación de imágenes (íconos) que representan diferentes categorías.
 
 ### Markdown
 
