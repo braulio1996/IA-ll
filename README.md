@@ -5,7 +5,8 @@ Desarrollar una red neuronal que realice un proceso de clasificación de imágen
 
 
 ### Introduction
-    The following project is developed in Jupyter Python + TenserFlow and we call it the Keras api where we load folders containing images, thus obtaining optimal solutions for learning our neural network.
+    The following project is developed in Jupyter Python + TenserFlow and we call it the Keras api where
+    we load folders containing images, thus obtaining optimal solutions for learning our neural network.
 
 ### KERAS
 Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result as fast as possible is key to doing good research.
@@ -94,12 +95,17 @@ For more details see [IA2 PROYECT](https://github.com/braulio1996/IA2WEB).
 Well ending, keras is a very powerful library that help us in many ways when creating a neural network, provides us with several classes to create, but despite this is very important to make a cleanup of the data before performing the analysis, because there may be empty data, for example we should apply the average for the data or the kmeans algorithm.
 
 • Keras provides a high-level API for creating a deep neural network.
+
 • Keras allows you to define a trigger function of your choice on each layer.
+
 • Image recognition was carried out, with different layers and with good precision. RNA options were presented, with the best result being a precision of (PENDIENTE CUANTO MARCO EL RESULTADO) 83,   this is due to the activation function, the layers and times used.
+
 • The combination of different trigger functions, the number of layers and the optimizer used will cause the precision result to vary considerably.
+
 
 ### Recomendation
 • When working with images, it must be clear if they are in color or not, and they flatten the dimension for a better effect on the result.
+
 • The amount of data must be significant, since RNA may not be as accurate with little data.
 
 
