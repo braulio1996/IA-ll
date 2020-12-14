@@ -3,12 +3,12 @@
 Enunciado:
 Desarrollar una red neuronal que realice un proceso de clasificación de imágenes (íconos) que representan diferentes categorías.
 
-### Markdown
+### KERAS
+Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result as fast as possible is key to doing good research.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```Code
+We import the necessary libraries
 
 # Header 1
 ## Header 2
