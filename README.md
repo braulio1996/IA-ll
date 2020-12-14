@@ -3,6 +3,10 @@
 Enunciado:
 Desarrollar una red neuronal que realice un proceso de clasificación de imágenes (íconos) que representan diferentes categorías.
 
+
+### Introduction
+    The following project is developed in Jupyter Python + TenserFlow and we call it the Keras api where we load folders containing images, thus obtaining optimal solutions for learning our neural network.
+
 ### KERAS
 Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result as fast as possible is key to doing good research.
 
