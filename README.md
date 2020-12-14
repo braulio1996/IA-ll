@@ -89,7 +89,7 @@ For more details see [IA2 PROYECT](https://github.com/braulio1996/IA2WEB).
 
 ### video
 
-[Tutorial](https://www.youtube.com/watch?v=f3S5oCCYto8)
+[Tutorial Parte 1: ](https://youtu.be/6i_lDWKmqQM)
 
 ### Conclusion
 Well ending, keras is a very powerful library that help us in many ways when creating a neural network, provides us with several classes to create, but despite this is very important to make a cleanup of the data before performing the analysis, because there may be empty data, for example we should apply the average for the data or the kmeans algorithm.
