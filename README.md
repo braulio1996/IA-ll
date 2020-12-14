@@ -21,11 +21,13 @@ Keras is a deep learning API written in Python, running on top of the machine le
 
 ## Development Process
 
-# Requirements:
+### Requirements:
 1. Python 3 ... with which we will make a Notebook Jupyter
 2. A suite like Anaconda is recommended to facilitate the process
 3. Keras and TensorFlow
 4. Dataset
+
+
 ```KERAS
 We import the necessary libraries
 
@@ -69,6 +71,15 @@ train_X,test_X,train_Y,test_Y = train_test_split(x,y,test_size=0.2)
 [Link](url) and ![Image](src)
 ```
 
+
+# 1. Implemented methods to load the images
+
+For the processing of the images, a data set is available that contains images
+What we do is divide the data set into 80-20 for training and testing.
+
+Before we start we must load the data we need and use the ** plt.imread (filepath) 
+** method that will load all the images in an array.
+
 For more details see [IA2 PROYECT](https://github.com/braulio1996/IA2WEB).
 
 ### video
@@ -77,3 +88,16 @@ For more details see [IA2 PROYECT](https://github.com/braulio1996/IA2WEB).
 
 ### Conclusion
 Well ending, keras is a very powerful library that help us in many ways when creating a neural network, provides us with several classes to create, but despite this is very important to make a cleanup of the data before performing the analysis, because there may be empty data, for example we should apply the average for the data or the kmeans algorithm.
+
+• Keras provides a high-level API for creating a deep neural network.
+• Keras allows you to define a trigger function of your choice on each layer.
+• Image recognition was carried out, with different layers and with good precision. RNA options were presented, with the best result being a precision of (PENDIENTE CUANTO MARCO EL RESULTADO) 83,   this is due to the activation function, the layers and times used.
+• The combination of different trigger functions, the number of layers and the optimizer used will cause the precision result to vary considerably.
+
+### Recomendation
+• When working with images, it must be clear if they are in color or not, and they flatten the dimension for a better effect on the result.
+• The amount of data must be significant, since RNA may not be as accurate with little data.
+
+
+
+
