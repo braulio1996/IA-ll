@@ -18,6 +18,14 @@ Keras is a deep learning API written in Python, running on top of the machine le
 
  ■ Create files where the process results are generate
 
+
+## Development Process
+
+# Requirements:
+1. Python 3 ... with which we will make a Notebook Jupyter
+2. A suite like Anaconda is recommended to facilitate the process
+3. Keras and TensorFlow
+4. Dataset
 ```KERAS
 We import the necessary libraries
 
