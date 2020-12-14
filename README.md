@@ -10,9 +10,34 @@ Keras is a deep learning API written in Python, running on top of the machine le
 ```Code
 We import the necessary libraries
 
-# Header 1
-## Header 2
-### Header 3
+# Libraries
+
+import numpy as np
+import os, sys, re, keras, seaborn
+from os import remove
+import seaborn as sns
+import matplotlib.pyplot as pp
+from PIL import Image, ImageSequence, ImageFont, ImageDraw, ImageOps
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import confusion_matrix,accuracy_score
+from keras.utils import to_categorical
+from keras.models import Sequential,Input,Model
+from keras.layers import Dense, Dropout, Flatten, Conv1D, GlobalMaxPooling1D,MaxPooling1D,GlobalAveragePooling1D
+from keras.layers.normalization import BatchNormalization
+from keras.layers.advanced_activations import LeakyReLU
+from keras.layers import Conv2D, MaxPooling2D,GlobalAveragePooling2D
+from tensorflow.python.keras import backend as K
+from tensorflow.python.keras import optimizers
+from sklearn.preprocessing import MinMaxScaler, StandardScaler
+from sklearn.preprocessing import LabelEncoder, OneHotEncoder
+%matplotlib inline
+K.clear_session()
+
+## We read our main directory
+icons = np.load('Icons-50.npy', allow_pickle = True).item()
+
+### We divide our dataset in training and test applying the train_test_split method
+train_X,test_X,train_Y,test_Y = train_test_split(x,y,test_size=0.2)
 
 - Bulleted
 - List
