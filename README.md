@@ -110,9 +110,9 @@ Well ending, keras is a very powerful library that help us in many ways when cre
 
 ### Results
 Artificial neural networks
-![RNA1](ARN1.png)
-![RNA2](ARN2.png)
-![RNA3](ARN3.png)
-![RNA3](ARN3.png)
+![RNA1](https://github.com/braulio1996/IA-ll/blob/main/RNA1.png)
+![RNA2](https://github.com/braulio1996/IA-ll/blob/main/RNA2.png)
+![RNA3](https://github.com/braulio1996/IA-ll/blob/main/RNA3.png)
+![RNA3](https://github.com/braulio1996/IA-ll/blob/main/RNA4.png)
 
 
